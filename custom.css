@@ -176,7 +176,7 @@ a {
 }
 @media (max-width: 850px) {
   .section-padding {
-    padding: 80px 15% 40px 10%;
+    padding: 80px 10% 40px 10%;
   }
 }
 @media (max-width: 450px) {
