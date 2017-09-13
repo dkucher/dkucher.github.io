@@ -71,7 +71,7 @@ a {
   height: 100px;
   float: left;
   border: 3px solid #607D8B;
-  content:DSC_0308-crop.jpg;
+  content:url(DSC_0308-crop.jpg);
   background: #607D8B;
   background-size: cover;
   border-radius: 50%;
