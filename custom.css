@@ -71,7 +71,8 @@ a {
   height: 100px;
   float: left;
   border: 3px solid #607D8B;
-  content:url(https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAs5AAAAJDc2MzkwZDc2LTgxMmUtNDlkMS05YWZjLTY4YmI3YTQyNTkwNw.jpg);
+  /*content:url(https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAs5AAAAJDc2MzkwZDc2LTgxMmUtNDlkMS05YWZjLTY4YmI3YTQyNTkwNw.jpg);*/
+  content:url(profile.png);
   background: #607D8B;
   background-size: cover;
   border-radius: 50%;
